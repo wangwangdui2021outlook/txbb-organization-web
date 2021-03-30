@@ -17,8 +17,7 @@ module.exports = {
     },
     proxy: {
       '/api': {
-        target: 'http://192.168.10.79:9501/Organ',
-        // target: 'http://192.168.100.23:9502/Organ',
+        target: 'http://license.wangwangdui2021.com/Organ',
         changeOrigin: true,
         ws: true,
         pathRewrite: {
@@ -26,7 +25,7 @@ module.exports = {
         }
       },
       '/cdn': {
-        target: 'http://192.168.10.79:9501',
+        target: 'http://license.wangwangdui2021.com',
         changeOrigin: true,
         ws: true,
         pathRewrite: {

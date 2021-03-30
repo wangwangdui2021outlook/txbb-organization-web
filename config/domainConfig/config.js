@@ -1,5 +1,5 @@
 module.exports = {
-  CDNURL: 'http://.com',
-  APIURL: 'http://.com',
+  CDNURL: 'http://cdn.wangwangdui2021.com',
+  APIURL: 'http://license.wangwangdui2021.com',
   PLAT_NAME: '汪汪队机构端'
 }
