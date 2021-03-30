@@ -1,0 +1,79 @@
+{
+  "id": "1690109",
+  "name": "txbb SaaS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5189961",
+      "name": "平台首页",
+      "font_class": "pingtaishouye",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "5772065",
+      "name": "禁止",
+      "font_class": "jinzhi1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11647212",
+      "name": "数据导出",
+      "font_class": "shujudaochu",
+      "unicode": "eb4d",
+      "unicode_decimal": 60237
+    },
+    {
+      "icon_id": "3629751",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "5372218",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "6801225",
+      "name": "平台 - 浏览器",
+      "font_class": "pingtai-liulanqi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "9885906",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10443869",
+      "name": "数据概览",
+      "font_class": "shujugailan",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "10662280",
+      "name": "规则中心",
+      "font_class": "guizezhongxin",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "10756427",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}
